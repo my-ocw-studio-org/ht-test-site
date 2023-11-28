@@ -1,0 +1,30 @@
+{
+  "term": "Summer",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ht-test-site"
+  },
+  "course_image": {
+    "content": "4d68f5b8-f24e-4aff-b65a-f301e6d5ab97",
+    "website": "ht-test-site"
+  },
+  "course_title": "HT Test Site",
+  "hide_download": false,
+  "course_description": "Test course",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "4d68f5b8-f24e-4aff-b65a-f301e6d5ab97",
+    "website": "ht-test-site"
+  },
+  "learning_resource_types": [],
+  "site_uid": "25f56959-c0e5-44cc-a160-cf603a3015d8",
+  "site_short_id": "ht-test-site"
+}
