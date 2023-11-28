@@ -13,7 +13,7 @@
     "website": "ht-test-site"
   },
   "course_title": "HT Test Site",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "Test course",
   "department_numbers": [
     "1"
